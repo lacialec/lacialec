@@ -1,4 +1,6 @@
-### Hi there 👋 I'am Martin
+### Hi there 👋 
+
+My name is Martin Dimovski and i am glad that you found me on GitHub!
 
 <!--
 **lacialec/lacialec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
